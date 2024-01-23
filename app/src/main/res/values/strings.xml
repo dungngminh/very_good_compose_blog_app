@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Very Good Blog App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="generic_login">Login</string>
+    <string name="generic_username">Username</string>
+    <string name="login_dont_have_an_acount_label_text">Don’t have an account?</string>
+    <string name="generic_sign_up">Sign up</string>
+    <string name="login_forgot_password_label">Forgot Password?</string>
+    <string name="generic_fullname">Fullname</string>
+    <string name="generic_register">Register</string>
+    <string name="generic_email">Email</string>
+    <string name="generic_password">Password</string>
+    <string name="generic_confirmation_password">Confirmation Password</string>
+    <string name="email_must_be_not_empty">Email must be not empty</string>
+    <string name="email_is_not_valid">Email is not valid</string>
+    <string name="password_must_be_not_empty">Password must be not empty</string>
+    <string name="password_must_be_more_than_8_characters_long">Password must be more than 8 characters long</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="hello_user">Hello %s</string>
+    <string name="fullname_must_be_not_empty">Fullname must be not empty</string>
+    <string name="password_is_not_match">Password is not match</string>
+    <string name="popular">Popular</string>
+    <string name="other_blogs">Other blogs</string>
+    <string name="something_went_wrong_please_try_again">Something went wrong! Please try again!</string>
+    <string name="login_successfully">Login successfully</string>
+    <string name="all">All</string>
+    <string name="business">Business</string>
+    <string name="technology">Technology</string>
+    <string name="fashion">Fashion</string>
+    <string name="travel">Travel</string>
+    <string name="food">Food</string>
+    <string name="education">Education</string>
+    <string name="sign_out">Sign out</string>
+    <string name="add_new_blog">Add new blog</string>
+    <string name="search">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
